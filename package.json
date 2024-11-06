@@ -1,0 +1,19 @@
+{
+  "name": "book_library_backend",
+  "version": "1.0.0",
+  "description": "book library",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
